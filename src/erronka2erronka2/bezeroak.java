@@ -7,7 +7,7 @@ public class bezeroak {
     private String abizenak;
     private String nan;
     private String helbidea;
-    private String email;
+    private String email; 
     private String erabiltzailea;
     private String pasahitza;
     private String rol; // bezero | hornitzaile
